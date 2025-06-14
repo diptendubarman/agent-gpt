@@ -144,9 +144,9 @@ const Hero: FC<{ className?: string }> = ({ className }) => {
             <GlowWrapper>
               <PrimaryButton
                 icon={<Image src="email-24x24.svg" width="24" height="24" alt="Email" />}
-                onClick={() => {
-                  window.open("https://6h6bquxo5g1.typeform.com/to/qscfsOf1", "_blank");
-                }}
+                // onClick={() => {
+                //   window.open("https://6h6bquxo5g1.typeform.com/to/qscfsOf1", "_blank");
+                // }}
               >
                 <>
                   <span className="py-2 font-medium">Join the Waitlist</span>

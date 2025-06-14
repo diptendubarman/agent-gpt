@@ -19,26 +19,23 @@ const DefaultLayout = (props: LayoutProps) => {
       )}
     >
       <Head>
-        <title>AgentGPT</title>
+        <title>AIAgent</title>
         <meta name="description" content={description} />
-        <meta name="twitter:site" content="@AgentGPT" />
+        <meta name="twitter:site" content="@AIAgent" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="AgentGPT 🤖" />
+        <meta name="twitter:title" content="AIAgent 🤖" />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content="https://agentgpt.reworkd.ai/banner.png" />
         <meta name="twitter:image:width" content="1280" />
         <meta name="twitter:image:height" content="640" />
-        <meta property="og:title" content="AgentGPT: Autonomous AI in your browser 🤖" />
+        <meta property="og:title" content="AIAgent: Autonomous AI in your browser 🤖" />
         <meta property="og:description" content={description} />
         <meta property="og:url" content="https://agentgpt.reworkd.ai/" />
         <meta property="og:image" content="https://agentgpt.reworkd.ai/banner.png" />
         <meta property="og:image:width" content="1280" />
         <meta property="og:image:height" content="640" />
         <meta property="og:type" content="website" />
-        <meta
-          name="google-site-verification"
-          content="sG4QDkC8g2oxKSopgJdIe2hQ_SaJDaEaBjwCXZNkNWA"
-        />
+        
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={clsx("min-w-screen min-h-screen", props.className)}>{props.children}</div>

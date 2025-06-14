@@ -23,12 +23,12 @@ export const PAGE_LINKS: LinkMetadata[] = [
     href: "/",
     icon: FaHouse,
   },
-  {
-    name: "Help",
-    href: "https://docs.reworkd.ai/",
-    icon: FaQuestion,
-    className: "group-hover:text-red-500",
-  },
+  // {
+  //   name: "Help",
+  //   href: "https://reworkd.ai/docs",
+  //   icon: FaQuestion,
+  //   className: "group-hover:text-red-500",
+  // },
   {
     name: "Templates",
     href: "/templates",
@@ -46,22 +46,18 @@ export const PAGE_LINKS: LinkMetadata[] = [
 export const SOCIAL_LINKS: LinkMetadata[] = [
   {
     name: "Github",
-    href: "https://github.com/reworkd/AgentGPT",
+    href: "https://github.com/diptendubarman/",
     icon: FaGithub,
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/ReworkdAI",
+    href: "https://x.com/i_mrdk99",
     icon: FaXTwitter,
   },
-  {
-    name: "Discord",
-    href: "https://discord.gg/gcmNyAAFfV",
-    icon: FaDiscord,
-  },
+  
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/company/reworkd/",
+    href: "https://www.linkedin.com/in/diptendu-barman/",
     icon: FaLinkedin,
   },
 ];

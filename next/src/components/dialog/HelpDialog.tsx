@@ -44,7 +44,7 @@ export default function HelpDialog() {
     >
       <div>
         <p>
-          AgentGPT is the next generation of Google search. Ask any question and watch as an AI
+          AIAgent is the next generation of Google search. Ask any question and watch as an AI
           Agent gives you the perfect answer after aggregating relevant sources from across the
           internet.
         </p>

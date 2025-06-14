@@ -22,18 +22,18 @@ const OpenSource = () => {
                 "<!DOCTYPE html>\n" +
                 "<html>\n" +
                 "<head>\n" +
-                " <title>My AgentGPT Website</title>\n" +
+                " <title>My AIAgent Website</title>\n" +
                 "</head>\n" +
                 "<body>\n" +
-                "  <h1>Welcome to AgentGPT!</h1>\n" +
+                "  <h1>Welcome to AIAgent!</h1>\n" +
                 "  <p>Explore the power of autonomous AI agents.</p>\n" +
                 '  <script src="https://agentgpt.reworkd.ai/agentgpt.js"></script>\n' +
                 "  <script>\n" +
-                "    // Connect to AgentGPT API\n" +
+                "    // Connect to AIAgent API\n" +
                 "    const agent = new AgentGPT();\n" +
                 "    agent.connect('YOUR_API_KEY');\n" +
                 "    \n" +
-                "    // Example code to interact with AgentGPT\n" +
+                "    // Example code to interact with AIAgent\n" +
                 "    agent.createAgent('MyAIAssistant');\n" +
                 "    agent.setGoal('Sort my emails');\n" +
                 "    agent.start();\n" +

@@ -1,11 +1,11 @@
 {
-	"WELCOME_TO_AGENT_GPT": "Bienvenido a AgentGPT",
+	"WELCOME_TO_AGENT_GPT": "Bienvenido a AIAgent",
 	"INTRODUCING_AGENTGPT": "te permite configurar y ejecutar agentes de inteligencia artificial autónomos a través de tu navegador. Nombra tu agente de IA personalizado y define su objetivo. El agente de IA intentará alcanzar el objetivo definido mediante la creación de tareas, su ejecución y la evaluación de sus resultados 🚀",
 	"PLATFORM_BETA_DESCRIPTION": "Esta plataforma está actualmente en versión beta y estamos trabajando en las siguientes características:",
 	"LONG_TERM_MEMORY": "Memoria a largo plazo 🧠",
 	"WEB_BROWSING": "Navegación web 🌐",
 	"INTERACTION_WITH_WEBSITES_AND_PEOPLE": "Interacción con sitios web y personas 👨‍👩‍👦",
 	"FOLLOW_THE_JOURNEY": "Sígue nuestra aventura en nuestras redes:",
-	"TO_LEARN_MORE_ABOUT_AGENTGPT": "Para obtener más información sobre AgentGPT, su hoja de ruta, preguntas frecuentes, etc., visite la",
-	"AGENTGPT_DOCUMENTATION": "Documentación de AgentGPT"
+	"TO_LEARN_MORE_ABOUT_AGENTGPT": "Para obtener más información sobre AIAgent, su hoja de ruta, preguntas frecuentes, etc., visite la",
+	"AGENTGPT_DOCUMENTATION": "Documentación de AIAgent"
 }

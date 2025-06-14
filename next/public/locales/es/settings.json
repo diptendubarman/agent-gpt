@@ -7,7 +7,7 @@
 	"CONTROL_THE_MAXIMUM_NUM_OF_LOOPS": "Controla el número máximo de bucles que el agente puede ejecutar (un valor más alto resultará en más llamadas a la API).",
 	"GET_YOUR_OWN_APIKEY": "Obtenga su propia clave de API de OpenAI",
 	"HERE": "aquí",
-	"HERE_YOU_CAN_ADD_YOUR_OPENAI_API_KEY": "Aquí puedes agregar tu clave de API de OpenAI. Esto significa que tendrás que pagar por tu uso del API, ¡pero obtendrás un mayor acceso a AgentGPT! También podras elegir cualquier modelo de lenguaje ofrecido por OpenAI.",
+	"HERE_YOU_CAN_ADD_YOUR_OPENAI_API_KEY": "Aquí puedes agregar tu clave de API de OpenAI. Esto significa que tendrás que pagar por tu uso del API, ¡pero obtendrás un mayor acceso a AIAgent! También podras elegir cualquier modelo de lenguaje ofrecido por OpenAI.",
 	"HIGHER_VALUES_MAKE_OUTPUT_MORE_RANDOM": "Valores más altos hacen que la salida sea más creativa y aleatoria, mientras que valores más bajos la hacen más enfocada y determinista.",
 	"INFO_TO_USE_GPT4": "Para utilizar el modelo GPT-4, también es necesario proporcionar la clave de API de OpenAI. Puedes obtenerla",
 	"INVALID_OPENAI_API_KEY": "¡Clave de API inválida!",

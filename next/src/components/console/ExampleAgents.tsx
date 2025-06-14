@@ -18,15 +18,15 @@ const ExampleAgents = ({ setAgentRun, setShowSignIn }: ExampleAgentsProps) => {
     <>
       <FadeIn delay={0.9} duration={0.5}>
         <div className="my-2 grid grid-cols-1 items-stretch gap-2 sm:my-4 sm:grid-cols-3">
-          <ExampleAgentButton name="TravelGPT 🌴" setAgentRun={setAgentRun}>
-            Plan a detailed trip to Hawaii
+          <ExampleAgentButton name="TravelAgent 🌴" setAgentRun={setAgentRun}>
+            Plan a detailed trip to Goa
           </ExampleAgentButton>
 
-          <ExampleAgentButton name="CalculusGPT 📚" setAgentRun={setAgentRun}>
+          <ExampleAgentButton name="CalculusAgent 📚" setAgentRun={setAgentRun}>
             Create a study plan for an intro to Calculus exam
           </ExampleAgentButton>
 
-          <ExampleAgentButton name="HustleGPT 🚀" setAgentRun={setAgentRun}>
+          <ExampleAgentButton name="HustleAgent 🚀" setAgentRun={setAgentRun}>
             Create a comprehensive report for how to scale a startup to 1000 customers
           </ExampleAgentButton>
         </div>

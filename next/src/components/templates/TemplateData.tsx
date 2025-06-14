@@ -23,7 +23,7 @@ import {
 
 export const TEMPLATE_DATA: TemplateModel[] = [
   {
-    name: "ResearchGPT",
+    name: "ResearchAgent",
     icon: <FaBookReader />,
     category: "Academics and Professional",
     description: "Generate a thorough report on a specific subject",
@@ -32,7 +32,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Global Warming",
   },
   {
-    name: "BrandGPT",
+    name: "BrandAgent",
     icon: <FaShoppingCart />,
     category: "Academics and Professional",
     description: "Evaluate a brand's performance, market position, and future prospects",
@@ -41,7 +41,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Coca-Cola",
   },
   {
-    name: "TravelGPT",
+    name: "TravelAgent",
     icon: <FaPlaneDeparture />,
     category: "Other",
     description: "Plan a detailed journey to a selected destination",
@@ -50,7 +50,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Paris",
   },
   {
-    name: "PlatformerGPT",
+    name: "PlatformerAgent",
     icon: <FaGamepad />,
     category: "Creative and Social",
     description: "Code a platformer game featuring a popular character or theme",
@@ -59,7 +59,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Mario",
   },
   {
-    name: "IndustryGPT",
+    name: "IndustryAgent",
     icon: <FaBook />,
     category: "Academics and Professional",
     description:
@@ -69,7 +69,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "ClimateTech",
   },
   {
-    name: "ScraperGPT",
+    name: "ScraperAgent",
     icon: <FaLaptopCode />,
     category: "Other",
     description: "Extract and summarize data from a selected website",
@@ -78,7 +78,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "IMDb",
   },
   {
-    name: "PostGPT",
+    name: "PostAgent",
     icon: <FaHashtag />,
     category: "Creative and Social",
     description: "Create engaging captions and hashtags for your social media posts",
@@ -87,7 +87,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Summer Vacation",
   },
   {
-    name: "EmailGPT",
+    name: "EmailAgent",
     icon: <FaRegEnvelope />,
     category: "Academics and Professional",
     description: "Compose a concise and detailed email",
@@ -96,7 +96,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Project Alpha",
   },
   {
-    name: "ResumeGPT",
+    name: "ResumeAgent",
     icon: <FaFileAlt />,
     category: "Academics and Professional",
     description: "Design a professional resume based on your career history and skills",
@@ -105,7 +105,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Marketing",
   },
   {
-    name: "NovelGPT",
+    name: "NovelAgent",
     icon: <FaBookOpen />,
     category: "Creative and Social",
     description: "Begin writing a novel in a selected genre",
@@ -114,7 +114,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Fantasy",
   },
   {
-    name: "DietGPT",
+    name: "DietAgent",
     icon: <FaAppleAlt />,
     category: "Health and Fitness",
     description: "Create a customized diet plan based on dietary preferences and goals",
@@ -123,7 +123,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Vegetarian",
   },
   {
-    name: "FitnessGPT",
+    name: "FitnessAgent",
     icon: <FaDumbbell />,
     category: "Health and Fitness",
     description: "Design a workout regimen tailored to your fitness goals",
@@ -132,7 +132,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Weight Loss",
   },
   {
-    name: "MarketingGPT",
+    name: "MarketingAgent",
     icon: <FaChartLine />,
     category: "Academics and Professional",
     description: "Design a comprehensive marketing strategy for your business",
@@ -141,7 +141,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Tech Startup",
   },
   {
-    name: "BudgetGPT",
+    name: "BudgetAgent",
     icon: <FaMoneyBillWave />,
     category: "Academics and Professional",
     description: "Prepare a personal or family budget",
@@ -150,7 +150,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Family Vacation",
   },
   {
-    name: "StudyGPT",
+    name: "StudyAgent",
     icon: <FaGraduationCap />,
     category: "Academics and Professional",
     description: "Design a study schedule to achieve your academic objectives",
@@ -159,7 +159,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Final Exams",
   },
   {
-    name: "NewsGPT",
+    name: "NewsAgent",
     icon: <FaRegNewspaper />,
     category: "Other",
     description: "Author a detailed news article on a selected topic",
@@ -168,7 +168,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Technology Advancements",
   },
   {
-    name: "EventPlannerGPT",
+    name: "EventPlannerAgent",
     icon: <FaCalendarAlt />,
     category: "Other",
     description: "Organize a detailed schedule for your forthcoming event",
@@ -177,7 +177,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Music Festival",
   },
   {
-    name: "BlogGPT",
+    name: "BlogAgent",
     icon: <FaBlog />,
     category: "Creative and Social",
     description: "Write a blog post on a selected topic",
@@ -186,7 +186,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Healthy Living",
   },
   {
-    name: "AstroGPT",
+    name: "AstroAgent",
     icon: <FaStarAndCrescent />,
     category: "Science and Technology",
     description: "Discuss astronomical phenomena, discoveries, and related technology",
@@ -195,7 +195,7 @@ export const TEMPLATE_DATA: TemplateModel[] = [
     placeholder: "Black Holes",
   },
   {
-    name: "ArtReviewGPT",
+    name: "ArtReviewAgent",
     icon: <FaPalette />,
     category: "Creative and Social",
     description: "Critique a piece of art, discussing its style, context, and influence",

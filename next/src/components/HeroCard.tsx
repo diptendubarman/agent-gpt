@@ -27,9 +27,9 @@ const HeroCard: React.FC<HeroCardProps> = ({ title, subtitle, leftIcon }) => {
       <GlowWrapper className="opacity-60">
         <div
           className="group relative flex h-8 w-8 items-center justify-center rounded-full bg-white"
-          onClick={() => {
-            window.open("https://6h6bquxo5g1.typeform.com/to/qscfsOf1", "_blank");
-          }}
+          // onClick={() => {
+          //   window.open("https://6h6bquxo5g1.typeform.com/to/qscfsOf1", "_blank");
+          // }}
         >
           <SparkleIcon className="transition-transform group-hover:scale-110" />
         </div>

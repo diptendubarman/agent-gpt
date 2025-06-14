@@ -9,7 +9,6 @@ import GlowWrapper from "./GlowWrapper";
 import CycleIcons from "./motions/CycleIcons";
 import FadeIn from "./motions/FadeIn";
 import PrimaryButton from "./PrimaryButton";
-import TextButton from "./TextButton";
 import BlogsIcon from "../../public/icons/icon-blogs.svg";
 import DocsIcon from "../../public/icons/icon-docs.svg";
 import GithubIcon from "../../public/icons/icon-github.svg";
@@ -25,7 +24,7 @@ const navigation = [
     href: "https://github.com/reworkd/AgentGPT",
     icon: <GithubIcon />,
   },
-  { name: "Docs", href: "https://docs.reworkd.ai/", icon: <DocsIcon /> },
+  // { name: "Docs", href: "https://reworkd.ai/docs", icon: <DocsIcon /> },
 ];
 
 export default function NavBar() {
@@ -77,9 +76,9 @@ export default function NavBar() {
               <div className="hidden justify-end gap-2 xmd:flex sm:items-center lg:flex-1">
                 <GlowWrapper className="opacity-40">
                   <PrimaryButton
-                    onClick={() => {
-                      window.open("https://6h6bquxo5g1.typeform.com/to/qscfsOf1", "_blank");
-                    }}
+                    // onClick={() => {
+                    //   window.open("https://6h6bquxo5g1.typeform.com/to/qscfsOf1", "_blank");
+                    // }}
                   >
                     <>
                       <span>Join the Waitlist</span>
