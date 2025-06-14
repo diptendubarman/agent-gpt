@@ -36,13 +36,13 @@ Before you get started, please make sure you have the following installed:
 
    **For Mac/Linux users** :apple: :penguin:
    ```bash
-   git clone https://github.com/reworkd/AgentGPT.git
+   git clone https://github.com/diptendubarman/agent-gpt.git
    cd AgentGPT
    ./setup.sh
    ```
    **For Windows users** :windows:
    ```bash
-   git clone https://github.com/reworkd/AgentGPT.git
+   git clone https://github.com/diptendubarman/agent-gpt.git
    cd AgentGPT
    ./setup.bat
    ```
